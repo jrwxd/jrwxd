@@ -1,9 +1,9 @@
 # 👋 Hey, I'm John
 
-An AI/ML engineer with full-stack development capabilities, focused on building intelligent web solutions.
+A human behind a keyboard
 
 ## 🎯 About Me
-I combine machine learning expertise with web development skills to create AI-powered applications. With a background in healthcare IT and point-of-sales systems, I specialize in developing practical AI solutions that solve real-world problems.
+I love math and algorithms. I specifically have a backlground in healthcare IT and point-of-sales systems.
 
 ## 💻 Technical Expertise
 
@@ -27,22 +27,13 @@ I combine machine learning expertise with web development skills to create AI-po
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 ## 🌱 Current Focus
-- Developing production-ready machine learning models
-- Building AI-powered productivity solutions
-- Implementing natural language processing systems
-- Creating intelligent automation tools
-
-## 🔬 Featured Projects
-
+- Lately I've been making art and working with laser engravers.
 
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
 
 ## 💡 Let's Connect!
-I'm passionate about AI/ML and always excited to collaborate on innovative projects.
-
+I'm passionate about AI/ML and lasers. 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](Your-LinkedIn-URL)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:johnrolandwood@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=white)](Your-Portfolio-URL)
-
-Building the future with AI! 🚀
