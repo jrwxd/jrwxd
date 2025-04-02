@@ -3,7 +3,7 @@
 A human behind a keyboard
 
 ## 🎯 About Me
-I love math and algorithms. I specifically have a backlground in healthcare IT and point-of-sales systems.
+I love math and algorithms. I specifically have a background in healthcare IT and point-of-sales systems.
 
 ## 💻 Technical Expertise
 
